@@ -1,4 +1,4 @@
-# Hospital-Management-System 
+# Hospital-Management-System 🎫
 
 A hospital management system is a computerized system that manages the various aspects of a hospital, such as appointment schedules, billing, hospital details, Doctor details and more. It is fundamentally designed to streamline the operations of a hospital and improve the efficiency of healthcare delivery.
 
