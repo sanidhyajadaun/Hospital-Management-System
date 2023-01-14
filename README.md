@@ -17,7 +17,7 @@ A hospital management system is a computerized system that manages the various a
 - Object oriented concepts
 
 ## 🎫 Contribution
-If you would like to contribute to the development of the hospital management system, please fork the repository and submit a pull request.
+If you would like to contribute to the development of the hospital management system, please fork the repository and submit a pull request. ^_^
 
 ## ⚖️License
 The hospital management system is licensed under the MIT License.
